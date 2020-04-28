@@ -1,6 +1,6 @@
 # Sport Injury Rehabilitation - RecoveryBook
 
-Video Prototype - [Warning the user about their activity level](https://drive.google.com/file/d/1RijLnJev33JoXyTkk-YZ0eZO1dP-6aoa/view?usp=sharing)
+Interactive Prototype - [Recovery history, tracking, and journal](https://hciprojectgt.invisionapp.com/public/share/CR13I7PLGS)
 
 Interactive Prototype - [Completing the daily self-assessment](https://projects.invisionapp.com/share/AZWQHTI3YCE#/screens)
 
